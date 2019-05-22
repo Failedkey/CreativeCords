@@ -1,7 +1,7 @@
 package creativeCords;
 
 public class Config {
-	
+	//test
 	public Config() {
 	}
 	
