@@ -18,7 +18,6 @@ public class CommandHelp implements CommandExecutor {
 				player.sendMessage(ChatColor.GOLD + "===========================");
 				player.sendMessage(ChatColor.GOLD + "CHelp - Plugin help command");
 				player.sendMessage(ChatColor.GOLD + "===========================");
-
 			}
 		}
 		return false;
