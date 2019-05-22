@@ -8,7 +8,7 @@ public class Startup extends JavaPlugin{
 
 	public void onEnable() {
 		//Commands
-		getCommand("help").setExecutor(new CommandHelp());
+		getCommand("Chelp").setExecutor(new CommandHelp());
 		
 		//Events
 		
